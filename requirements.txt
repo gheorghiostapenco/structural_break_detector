@@ -1,0 +1,13 @@
+# --- Core Libraries ---
+pandas          # For data manipulation and time-series analysis
+numpy           # For numerical operations
+
+# --- Data Acquisition ---
+ccxt            # For fetching crypto data from exchanges
+yfinance        # For fetching data from exchanges
+
+# --- Analysis ---
+ruptures        # The core library for change point detection
+
+# --- Visualization ---
+matplotlib      # For plotting our results
